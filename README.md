@@ -1,2 +1,2 @@
-# laravel-mongo-base
+# Laravel - MongoDB
 simple laravel project with configuration in mongodb
